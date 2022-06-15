@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default as TypingAnimation } from \"./src/\";","map":{"version":3,"names":["default","TypingAnimation"],"sources":["C:/ChattApp/node_modules/react-native-typing-animation/index.js"],"sourcesContent":["export { default as TypingAnimation } from \"./src/\";\n"],"mappings":"AAAA,SAASA,OAAO,IAAIC,eAApB"},"metadata":{},"sourceType":"module"}
